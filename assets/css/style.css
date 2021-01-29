@@ -99,7 +99,7 @@ p {
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
-    max-width: 150px;
+    max-width   : 150px;
 }
 
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
@@ -130,3 +130,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+            
